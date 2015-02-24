@@ -30,3 +30,6 @@ ButterKnife, FragmentArgs
 ### 결론
 
 
+### 참고사항
+
+- [Creating a custom AbstractProcessor and integrating with Eclipse](http://stackoverflow.com/questions/6686774/creating-a-custom-abstractprocessor-and-integrating-with-eclipse)
